@@ -1,6 +1,6 @@
 <h1>Hi! Nice to see you <img src="https://emojis.slackmojis.com/emojis/images/1643514598/6016/meow_coffee.png?1643514598" width="30"/></h1>
 <p>Welcome to my git page! </br> I'm Nicolò Sartor, fullstack developer from Italy.</p>
-<h3>Things I like to code with</h3>
+<h3>Things I like to code with:</h3>
 <p>
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img alt="ExpressJs" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
